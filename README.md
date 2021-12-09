@@ -15,9 +15,13 @@ the video file has to be in the same directory as the main code file.
 every background image has to be ideally square and named:
 
 `frame0.jpg`   <- start with frame0.jpg otherwise it won't work
+
 `frame1.jpg`
+
 ...
+
 `frame231.jpg`
+
 
 (go into the code and change the whiteframe_nr variable to the number of frames)
 
