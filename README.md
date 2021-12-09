@@ -1,5 +1,5 @@
 # badapple-waifupics
-Script that automatically masks Bad-Apple's Video on top of an anime pixelmap
+Script that automatically masks Bad-Apple's Video on top of a custom pixelmap
 
 ![image](https://user-images.githubusercontent.com/53939068/145458249-ed65a817-27bd-4891-9088-22790642e755.png)
 
